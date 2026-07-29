@@ -1,6 +1,6 @@
 # Catálogo de Filmes
 
-Projeto desenvolvido para a Unidade I, utilizando tecnologias web básicas como **HTML**, **CSS** e **JavaScript**.
+Projeto desenvolvido para a Unidade I da matéria de Programação Web do Curso Técnico em Informática, utilizando tecnologias web básicas como **HTML**, **CSS** e **JavaScript**.
 
 ## Descrição
 
